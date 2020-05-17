@@ -1,0 +1,9 @@
+WarehouseReport/bin/
+WarehouseReport/obj
+WarehouseReport.Tests/bin/
+WarehouseReport.Tests/obj
+bin/
+obj/
+packages/
+.vs/
+TestResults/
